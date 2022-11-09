@@ -38,7 +38,7 @@
               p(data-aos="fade-down").mb-0 Cuando se habla de chocolatería, no se debe dejar de lado, aspectos tan importantes como, los tipos y características de los chocolates, las diversas posibilidades de relleno con sus respectivos ingredientes, pero especialmente los riesgos y defectos que se pueden presentar, en algunos momentos del atemperado. Por todo lo anterior, se deben conocer a continuación, cada uno de estos aspectos:
 
       .row.justify-content-start.align-items-center.mb-5           
-        .col-lg-5
+        .col-auto
           .list(data-aos="fade-down")
             .list__item
               .list__item__icon
@@ -46,7 +46,7 @@
             .list__txt
               h3.mb-0.mt-1.bwn Tipos y características
 
-      p(data-aos="fade-down").mb-5 Continuando con la normativa para el chocolate y sus productos derivados que fue desarrollada en 1981, por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO) y que fue actualizada en 2003 y 2016, clasifica al chocolate según su forma, composición y cantidad de cacao, de la siguiente manera:
+      p(data-aos="fade-down").mb-5 Continuando con la normativa para el chocolate y sus productos derivados que fue desarrollada en 1981, por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (<b>FAO</b>) y que fue actualizada en 2003 y 2016, clasifica al chocolate <b>según su forma, composición y cantidad de cacao</b>, de la siguiente manera:
 
       .row.justify-content-center.align-items-center.my-5           
         .col-lg-10(data-aos="fade-right")
@@ -89,7 +89,7 @@
                       p.ts #[b.ts Anexo.]Tipos_chocolate_ sus_requisitos_composición 
 
     .row.justify-content-start.align-items-center.mb-5           
-      .col-lg-5
+      .col-auto
         .list(data-aos="fade-down")
           .list__item
             .list__item__icon
@@ -125,7 +125,7 @@
         p(data-aos="fade-down") A nivel de fundamentos teóricos, existen dos grandes grupos para clasificar los rellenos: los de base agua y rellenos de grasa; los primeros, como su nombre lo indica, tienen dentro de su composición algún porcentaje de agua,  por ejemplo: ganache, licor, fondant, mermeladas o dulces de fruta.   Los de grasa se llaman así porque no contienen agua en ningún porcentaje; tener presente, que no quiere decir que por su nombre a estos rellenos se les agregue grasa, ya que por normatividad sólo está permitida la grasa vegetal y la proveniente de la leche. Los otros tipos de grasa están excluidos de las formulaciones. Estos en este casos, los rellenos obtienen la grasa, del praliné, pastas de frutos secos y giandujas (avellanas trituradas), entre otros.
 
     .row.justify-content-start.align-items-center.mb-5           
-      .col-lg-5
+      .col-auto
         .list(data-aos="fade-down")
           .list__item
             .list__item__icon
@@ -140,7 +140,7 @@
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/67.png', alt='')  
 
     .row.justify-content-start.align-items-center.mb-5           
-      .col-lg-5
+      .col-auto
         .list(data-aos="fade-down")
           .list__item
             .list__item__icon
@@ -231,7 +231,7 @@
                   td Alcohol 
                   td 6 %  
     .row.justify-content-start.align-items-center.mb-5           
-      .col-lg-5
+      .col-auto
         .list(data-aos="fade-down")
           .list__item
             .list__item__icon
@@ -250,34 +250,34 @@
         ul.lista-ul--color.ps-4
           li 
             i.fas.fa-cookie
-            p.mb-0 Bombones  deformados.
+            h5.mb-0 Bombones  deformados.
           li 
             i.fas.fa-cookie
-            p.mb-0 Bombones con cavidades por burbujas de aire.
+            h5.mb-0 Bombones con cavidades por burbujas de aire.
           li 
             i.fas.fa-cookie
-            p.mb-0 Sudoración de grasa o Fat Bloom.
+            h5.mb-0 Sudoración de grasa o Fat Bloom.
           li 
             i.fas.fa-cookie
-            p.mb-0 Carencia de olor agradable.
+            h5.mb-0 Carencia de olor agradable.
           li 
             i.fas.fa-cookie
-            p.mb-0 Sabor/ olor a rancio: enranciamiento de las grasas lácteas.
+            h5.mb-0 Sabor/ olor a rancio: enranciamiento de las grasas lácteas.
           li 
             i.fas.fa-cookie
-            p.mb-0 Presencia de moho,
+            h5.mb-0 Presencia de moho,
           li 
             i.fas.fa-cookie
-            p.mb-0 Fermentación.
+            h5.mb-0 Fermentación.
           li 
             i.fas.fa-cookie
-            p.mb-0 Rellenos con  texturas no deseadas:  secos, arenosos, o con exceso de humedad.
+            h5.mb-0 Rellenos con  texturas no deseadas:  secos, arenosos, o con exceso de humedad.
           li 
             i.fas.fa-cookie
-            p.mb-0 Consistencia no homogénea por azúcares cristalizados.
+            h5.mb-0 Consistencia no homogénea por azúcares cristalizados.
           li 
             i.fas.fa-cookie
-            p.mb-0 Aspecto mate y con líneas blancas.                                     
+            h5.mb-0 Aspecto mate y con líneas blancas.                                     
 </template>
 
 <script>

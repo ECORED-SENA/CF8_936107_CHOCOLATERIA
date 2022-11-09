@@ -1,9 +1,8 @@
 <template lang="pug">
 .curso-main-container.introduccion
   BannerInterno
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5(data-aos="zoom-in-left")
-  
-    .titulo-principal.color-acento-contenido.mb-0
+  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5  
+    .titulo-principal.color-acento-contenido.mb-0(data-aos="zoom-in-left")
       .titulo-principal__numero
         span
           i.fas.fa-info

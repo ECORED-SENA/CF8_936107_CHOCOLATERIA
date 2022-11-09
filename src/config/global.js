@@ -1,7 +1,7 @@
 export default {
   global: {
     componenteFormativo:
-      'Alistamiento y elaboración de productos de chocolatería.',
+      'Alistamiento y elaboración de productos de chocolatería',
     descripcionCurso:
       'En el presente componente formativo se estudiará la importancia de un correcto atemperado del chocolate, el proceso de moldeado, tipos de chocolate, rellenos y sus defectos entre otros, los cuales darán la base para el desarrollo como técnico chocolatero. ',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
@@ -269,8 +269,19 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
+        nombre: 'Zuleidy María Ruíz Torres',
+        cargo: 'Revisión de guion audiovisual',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Validación Ilustración',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Validación audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
@@ -281,7 +292,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Maria camila ovalle ospina',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

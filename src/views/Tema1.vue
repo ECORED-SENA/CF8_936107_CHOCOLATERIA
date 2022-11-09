@@ -115,7 +115,7 @@
           .col-auto.up
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/4.svg', alt='')
           .col.up  
-            p(data-aos="fade-down").mb-0 La manteca de cacao es polimórfica, es decir que cristaliza de diferentes formas.  Se conocen 5 tipos de cristales importantes en el ámbito chocolatero los cuales son, Gamma, Alpha, Beta, Beta Prima y Beta Segunda. 
+            p(data-aos="fade-down").mb-0 La manteca de cacao es polimórfica, es decir que cristaliza de diferentes formas.  Se conocen <b>5 tipos de cristales</b> importantes en el ámbito chocolatero los cuales son, <i><b>Gamma, Alpha, Beta, Beta Prima y Beta Segunda</b></i>. 
         p(data-aos="fade-down") Los cristales Gamma, Alpha y Beta son llamados inestables, pues sufren cambios con la temperatura ambiente, y temperatura al tacto, o sea, que al tocarlo se derrite fácilmente, ya que su textura es más blanda y con menos brillo, ya que no refleja de forma pareja las ondas de luz.  Este tipo de cristales son deseables en procesos como coberturas para helados pero no para chocolates en barra, bombones o aquellos que se requiere que mantengan la forma, textura y brillo sin importar tanto la temperatura ambiente.                                           
       .col-lg-5.up
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/12.png', alt='')
@@ -141,7 +141,7 @@
             span , esta consiste en calentar el chocolate para fundir por completo todos los cristales, enfriarlo para formar una red de cristales iniciadores (de todos los tipos) y recalentarlo a una temperatura de trabajo para reducir el número de cristales inestables, gracias a que tienen una menor resistencia térmica que los “buenos” o estables y se funden entre 15º y 28º (frente a los 32º-34º de los estables). Las curvas de atemperado y cristalización se pueden observar a continuación:                          
         .col-lg-5.my-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/15.png', alt='')
-
+    p(data-aos="fade-down").mb-5 Curva de atemperado del Chocolate
       .row.justify-content-center.align-items-stretch.mb-5           
         .col-lg-6.my-3
           .bg5.h-100.p-5(data-aos="zoom-in")
@@ -198,7 +198,7 @@
       p(data-aos="fade-down").mb-5 Las buenas prácticas en la elaboración se deben tener en cuenta para resguardar la calidad general y el buen estado del chocolate, ya que este es susceptible a la temperatura, aire, luz, humedad y tiempo, además de la capacidad que presenta para absorber olores del ambiente. Es necesario entonces, hablar de condiciones ambientales, equipos y utensilios que se requieren para llevar a cabo la producción óptima de chocolates.
 
       .row.justify-content-start.align-items-center.mb-5           
-        .col-lg-5
+        .col-auto
           .list(data-aos="fade-down")
             .list__item
               .list__item__icon
@@ -214,7 +214,7 @@
             .col-lg-12.bg3.brad.p-4.imgs-flotantes.my-3(data-aos="fade-left") 
               img.img-flotante(data-aos="zoom-in")(src='@/assets/curso/temas/26.svg', alt='Imagen decorativa')
               h4(data-aos="fade-down").bwn Baño María
-              p(data-aos="fade-down").mb-0 Técnica manual que consiste en introducir un recipiente pequeño con chocolate (o cualquier otro ingrediente), dentro de otro recipiente más grande que contiene un algún líquido, generalmente, agua, con este procedimiento se  busca la cocción por medio del agua caliente y no por el calor del horno o del fuego directamente.         
+              h5(data-aos="fade-down").mb-0 Técnica manual que consiste en introducir un recipiente pequeño con chocolate (o cualquier otro ingrediente), dentro de otro recipiente más grande que contiene un algún líquido, generalmente, agua, con este procedimiento se  busca la cocción por medio del agua caliente y no por el calor del horno o del fuego directamente.         
         .col-lg-5
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/25.png', alt='')
 
@@ -232,7 +232,7 @@
               p #[b Enlace web.] Con el fin de ampliar la información acerca del decreto 3075 de 1997 en su título II, “CONDICIONES BÁSICAS DE HIGIENE EN LA FABRICACIÓN DE ALIMENTOS”, visite el siguiente enlace del Ministerio de Salud y Protección Social_Minsalud 
 
       .row.justify-content-start.align-items-center        
-        .col-lg-5
+        .col-auto
           .list(data-aos="fade-down")
             .list__item
               .list__item__icon
@@ -365,8 +365,8 @@
         p(data-aos="fade-down") Como ya se ha mencionado anteriormente, el término moldear incluye procedimientos en los que el chocolate se deposita en recipientes, seguido del enfriamiento y del endurecido en piezas sólidas, es decir, el moldeo sólo se utiliza en la elaboración del chocolate en barra y para darle la forma deseada, se vierte en moldes, los cuales deben cumplir con unas características de forma, pero que igualmente requieren de unas condiciones de higiene y limpieza para la protección del producto y del ciclo de producción. Es importante conocer, entonces los tipos de moldes y los procedimientos de limpieza:                  
                
     .bg9.py-5
-      .row.justify-content-start.align-items-center.pt-5        
-        .col-lg-5
+      .row.justify-content-start.align-items-center.pt-5.mb-3        
+        .col-auto
           .list(data-aos="fade-down")
             .list__item
               .list__item__icon
@@ -401,7 +401,7 @@
 
 
     .row.justify-content-start.align-items-center.pt-5        
-      .col-lg-5
+      .col-auto
         .list(data-aos="fade-down")
           .list__item
             .list__item__icon
@@ -432,7 +432,7 @@
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/50.png', alt='')
 
     .row.justify-content-start.align-items-center    
-      .col-lg-5
+      .col-auto
         .list(data-aos="fade-down")
           .list__item
             .list__item__icon
