@@ -156,28 +156,28 @@
           .tarjeta.tarjeta--azul.p-4.mb-5(data-aos="fade-left")
             SlyderA(tipo="b")
               .row.justify-content-center.align-items-center
-                  .col-md-5.mb-4.mb-md-0
+                  .col-lg-5.mb-4.mb-md-0.my-3
                     h4.mb-4 Sacarosa 
                     p También llamada azúcar común o de mesa, proviene comúnmente de la caña de azúcar, otra fuente es de la remolacha azucarera, su efecto conservador y reblandecedor de los rellenos y resalta los aromas. Disminuye la actividad del agua (aW) y posee poder anticongelante.            
-                  .col-md-5
+                  .col-lg-5.my-3
                     img.img-a.img-t(src='@/assets/curso/temas/70.png', alt='')   
               .row.justify-content-center.align-items-center
-                  .col-md-5.mb-4.mb-md-0
+                  .col-lg-5.mb-4.mb-md-0.my-3
                     h4.mb-4 Azúcar invertido o Trimoline 
                     p Se obtiene mediante la hidrólisis enzimática o ácida del azúcar dando como resultado glucosa y fructosa, su textura es espesa y por su poder anticongelante es muy usada sobre todo en la elaboración de helados, ya que evita la cristalización del producto, permitiendo así, una textura más suave y cremosa. Disminuye la actividad del agua (aW) y es altamente edulcorante.           
-                  .col-md-5
+                  .col-lg-5.my-3
                     img.img-a.img-t(src='@/assets/curso/temas/71.png', alt='')  
               .row.justify-content-center.align-items-center
-                  .col-md-5.mb-4.mb-md-0
+                  .col-lg-5.mb-4.mb-md-0.my-3
                     h4.mb-4 Glucosa o Dextrosa 
                     p Proviene del Almidón, Su pH es de 5, se utiliza en rellenos con frutas ya que evita la separación del agua y pulpa, a esto se le conoce como efecto almidón. Presenta bajo poder edulcorante, potencia los sabores, ofrece sensación de frescor al contacto con la boca; es anticristalizante y disminuye la actividad del agua (aW). Comercialmente se consigue en polvo o hidratada.           
-                  .col-md-5
+                  .col-lg-5.my-3
                     img.img-a.img-t(src='@/assets/curso/temas/72.png', alt='')  
               .row.justify-content-center.align-items-center
-                  .col-md-5.mb-4.mb-md-0
+                  .col-lg-5.mb-4.mb-md-0.my-3
                     h4.mb-4 Sorbitol 
                     p Es poliol (azúcar-alcohol) obtenida por hidrogenación catalítica, tiene la capacidad de soportar altas temperaturas sin sufrir cambios ni caramelizar. Se caracteriza por ser un agente conservador, anticristalizante, además tiene efecto laxante si se usa en grandes dosis, disminuye la actividad del agua (aW); se aconseja usarlo en productos con tendencia al secado ya que es humectante. Comercialmente se consigue en polvo o disuelto con 70% de materia seca.            
-                  .col-md-5
+                  .col-lg-5.my-3
                     img.img-a.img-t(src='@/assets/curso/temas/73.png', alt='')
 
       h4.bgtbw(data-aos="fade-down").mb-4 Las grasas

@@ -328,34 +328,34 @@
       
         SlyderA(tipo="b").bgw.p-4.mb-5.brad
           .row.justify-content-center.align-items-center
-              .col-md-5.mb-4.mb-md-0
+              .col-lg-5.mb-4.mb-md-0.my-3
                 h4.mb-4 Encamisar
                 p Consiste en cubrir el molde de forma uniforme, llegando a todos los rincones y labrados que tenga; se procede a dar pequeños golpes o realizar un proceso de vibración para eliminar cualquier burbuja de aire. El cubrimiento debe ser de un espesor que permita poner un relleno sin que se salga del bombón.            
-              .col-md-5
+              .col-lg-5.my-3
                 img.img-a.img-t(src='@/assets/curso/temas/42.png', alt='') 
           .row.justify-content-center.align-items-center
-              .col-md-5.mb-4.mb-md-0
+              .col-lg-5.mb-4.mb-md-0.my-3
                 h4.mb-4 Rellenar 
                 p Una vez está el encamisado listo, se convierte en “la cama” que sostendrá el relleno, este puede ser de textura líquida o espesa. Cuando se trabaja en forma artesanal o a pequeña escala, se usa una manga pastelera con la cual se dispone el relleno dentro de los moldes previamente encamisados. La temperatura del relleno debe estar entre los 28°C - 31°C dependiendo del tipo de cobertura que se esté usando.              
-              .col-md-5
+              .col-lg-5.my-3
                 img.img-a.img-t(src='@/assets/curso/temas/43.png', alt='')   
           .row.justify-content-center.align-items-center
-              .col-md-5.mb-4.mb-md-0
+              .col-lg-5.mb-4.mb-md-0.my-3
                 h4.mb-4 Obturar o sellar 
                 p Como su nombre lo indica se trata de cubrir el molde, tapando el relleno anteriormente depositado, formando una especie de sello de chocolate. Se deposita la cobertura de forma uniforme, y se retira el exceso con una espátula. Es importante golpear suavemente  el molde para eliminar burbujas de aire.              
-              .col-md-5
+              .col-lg-5.my-3
                 img.img-a.img-t(src='@/assets/curso/temas/44.png', alt='') 
           .row.justify-content-center.align-items-center
-              .col-md-5.mb-4.mb-md-0
+              .col-lg-5.mb-4.mb-md-0.my-3
                 h4.mb-4 Vibrado 
                 p Como en los anteriores procesos, se debe dar pequeños golpes, suaves pero firmes a los moldes, cada vez que se deposite chocolate o relleno en ellos, con el fin de sacar cualquier burbuja de aire presente y que al secar deja una cavidad en el chocolate generando un defecto. Se puede realizar manualmente o existen máquinas dispensadoras de chocolate que ya vienen con el sistema de vibrado incluido o máquinas cuya única función es esa.              
-              .col-md-5
+              .col-lg-5.my-3
                 img.img-a.img-t(src='@/assets/curso/temas/45.png', alt='') 
           .row.justify-content-center.align-items-center
-              .col-md-5.mb-4.mb-md-0
+              .col-lg-5.mb-4.mb-md-0.my-3
                 h4.mb-4 Desmoldar 
                 p Una vez esté ya completamente sólido el chocolate se procede a desmoldar de una forma suave dando ligeros golpes o doblando un poco el molde, para liberar las piezas de chocolate. Este proceso es delicado y complejo, ya que si no se hace correctamente, se corre el riesgo de estropear el producto, lo cual genera altos costos.             
-              .col-md-5
+              .col-lg-5.my-3
                 img.img-a.img-t(src='@/assets/curso/temas/46.png', alt='')
 
     .row.justify-content-center.align-items-center.my-5 
