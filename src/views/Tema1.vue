@@ -141,8 +141,8 @@
             span , esta consiste en calentar el chocolate para fundir por completo todos los cristales, enfriarlo para formar una red de cristales iniciadores (de todos los tipos) y recalentarlo a una temperatura de trabajo para reducir el número de cristales inestables, gracias a que tienen una menor resistencia térmica que los “buenos” o estables y se funden entre 15º y 28º (frente a los 32º-34º de los estables). Las curvas de atemperado y cristalización se pueden observar a continuación:                          
         .col-lg-5.my-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/15.png', alt='')
-    p(data-aos="fade-down").mb-5 Curva de atemperado del Chocolate
-      .row.justify-content-center.align-items-stretch.mb-5           
+    h4(data-aos="fade-down").mb-5.text-center Curva de atemperado del Chocolate
+      .row.justify-content-center.align-items-stretch.mb-5.mt-4           
         .col-lg-6.my-3
           .bg5.h-100.p-5(data-aos="zoom-in")
             img.img-a.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/16.png', alt='')

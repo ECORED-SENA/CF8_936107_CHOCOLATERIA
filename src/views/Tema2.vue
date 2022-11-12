@@ -98,7 +98,7 @@
             h3.mb-0.mt-1.bwn Rellenos, formulación y defectos
 
     p(data-aos="fade-down").mb-5 La variedad de rellenos para chocolates es inimaginable, los maestros chocolateros juegan con infinidad de sabores, texturas, tipo de conservación y según el formato (se refiere a la forma en la que se debe dosificar el relleno, ya sea con manga, cápsulas  o incluso a mano, entre otras.); a grandes rasgos los más importantes son:
-
+    h4(data-aos="fade-down").mb-5.text-center Clasificación de rellenos para chocolates.
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-7(data-aos="fade-left")
         AcordionA(tipo="b" clase-tarjeta="tarjeta bg11")
