@@ -66,7 +66,7 @@
 .banner-interno__fondo
   background-image: url("../assets/curso/portada/7.png") !important
 .banner-principal__img
-  width: 400px !important    
+  width: 450px !important    
 .img-a 
   display: block
   margin: auto
@@ -221,6 +221,12 @@
     background-size: 100% auto  
     background-repeat: no-repeat
     background-position: center top     
+    @media (max-width: 428px)
+      background-image: url('../assets/curso/temas/19_1.png')
+
+.smov
+  @media (max-width: 428px)
+    padding: 2rem !important 
 
 .sha
   box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37) 
@@ -351,8 +357,9 @@
 .tarjeta--azul
   background-image: url(../assets/curso/temas/69.png)
   background-repeat: no-repeat
-  background-size: contain
-  background-position: center  
+  background-size: cover
+  background-position: center
+
 
 .slyder-a__btn--sigt, .slyder-a__btn--atrs
   @media (max-width: 810px)
@@ -450,7 +457,9 @@
   padding: 0px !important
   border-radius: 15px !important   
 
-.tarjeta.color-acento-botones
+.tarjeta.color-acento-contenido
+  *
+    color: $color-sistema-texto
   background-color: #FFECDE
 
 .ts
@@ -491,7 +500,9 @@
     background-image: url('../assets/curso/temas/68.png')
     background-size: 100% auto  
     background-repeat: no-repeat
-    background-position: center top    
+    background-position: center top
+    @media (max-width: 428px)
+      background-image: url('../assets/curso/temas/19_1.png')        
 
 .bgtbw
   color: #3A1C12     

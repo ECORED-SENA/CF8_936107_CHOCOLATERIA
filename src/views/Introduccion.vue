@@ -8,12 +8,12 @@
           i.fas.fa-info
       h1 Introducción
     .bg1 
-      .row.justify-content-center.align-items-start.pt-5          
+      .row.justify-content-center.align-items-center.pt-5          
         .col-lg-6.my-3
           p(data-aos="fade-down").mb-0 El mundo de la gastronomía y transformación de alimentos  está en auge, las personas cada vez aprecian más el origen de los alimentos, el proceso detrás de ellos  y las nuevas generaciones ven las profesiones desde un lado más artístico en donde se puedan desempeñar y dejar su sello. El cacao ahora es entendido desde el cultivo, sus prácticas amigables con el medio ambiente y la posibilidad de que sea una herramienta de desarrollo rural reforzando el cooperativismo tanto en jóvenes como mujeres. De esta forma una barra de chocolate perteneciente a un proyecto asociativo de pequeños productores, identificada por sus métodos artesanales y por el tipo y porcentaje  de cacao en su contenido toma un gran protagonismo en el mercado como un producto apreciado por toda la historia detrás de él.          
         .col-lg-6.my-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/2.png', alt='')
-      .row.justify-content-center.align-items-start.mb-5 
+      .row.justify-content-center.align-items-center.mb-5 
         .col-lg-7.my-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/3.png', alt='')                  
         .col-lg-5.my-3

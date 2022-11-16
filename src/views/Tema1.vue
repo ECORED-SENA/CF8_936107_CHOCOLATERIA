@@ -19,7 +19,7 @@
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/5.png', alt='')
       .row.justify-content-center.align-items-center.mb-5 
         .col-lg-5.my-3
-          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/6.png', alt='')                  
+          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/6_1.png', alt='')                  
         .col-lg-7.my-3
           p(data-aos="fade-down").mb-0 Para lograr convertir el licor de cacao en bombones, se debe continuar con el proceso de cobertura de chocolate y transformar el licor en una emulsión; esto se logra con la formulación  de distintas mezclas entre, 
           
@@ -129,9 +129,9 @@
 
       Separador 
       #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-        h2 1.2  Métodos de Elaboración: curva de atemperado y cristalización  
+        h2.mb-0 1.2  Métodos de Elaboración: curva de atemperado y cristalización  
 
-      .row.justify-content-center.align-items-center.p-3 
+      .row.justify-content-center.align-items-center
         .col-lg-7.my-3 
           p(data-aos="fade-down") Como ya se ha mencionado, 
             span.bgp #[b atemperar]
@@ -145,7 +145,7 @@
       .row.justify-content-center.align-items-stretch.mb-5.mt-4           
         .col-lg-6.my-3
           .bg5.h-100.p-5(data-aos="zoom-in")
-            img.img-a.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/16.png', alt='')
+            img.img-a.mb-4.brad(data-aos="zoom-in")(src='@/assets/curso/temas/16.png', alt='')
             h4(data-aos="fade-down").mb-4.text-center Calor Indirecto               
             p.mb-0(data-aos="fade-down") Por medio del calor indirecto, ejemplo Baño María, llevar el chocolate a 45 °C, mientras se revuelve de forma suave y homogénea.  El objetivo es que se fundan todos los cristales. Es importante no sobrepasar los 50  °C para evitar caramelización del chocolate o sabores amargos por el tostado de la cocoa o sólidos de leche presentes en la emulsión.           
         .col-lg-6.my-3
@@ -168,28 +168,28 @@
           SlyderE(indicadores="derecha")
             .row.justify-content-center.align-items-start
               .col-md-6.mb-4.mb-md-0
-                .pt-5.ps-5
+                .pt-5.ps-5.smov
                   h4.mb-4 Tableado 
                   p Es el método más utilizado en la chocolatería (atemperado en mármol), esta técnica consiste en fundir el chocolate sin pasar los 50 °C, luego se separan dos porciones, una de ellas se lleva al enfriamiento para llegar a menos de 31°C  extendiéndose en       una mesa de mármol,  cuando baja la temperatura, se reúne con la segunda porción del chocolate que no se enfrió y se busca que entre las dos temperaturas se obtenga los 31 a 35 °C deseables.     
               .col-md-6 
                 img.img-a.img-t(src='@/assets/curso/temas/21.png', alt='')
             .row.justify-content-center.align-items-start
               .col-md-6.mb-4.mb-md-0
-                .pt-5.ps-5
+                .pt-5.ps-5.smov
                   h4.mb-4 Directo 
                   p Consiste en usar ya el chocolate atemperado y llevarlo directamente a fundir a 31°C sin sobrepasar los 35 °C  con el fin de trabajar ese producto directamente en la preparación de  productos de  chocolatería.     
               .col-md-6 
                 img.img-a.img-t(src='@/assets/curso/temas/22.png', alt='')
             .row.justify-content-center.align-items-start
               .col-md-6.mb-4.mb-md-0
-                .pt-5.ps-5
+                .pt-5.ps-5.smov
                   h4.mb-4 Mycryo 
                   p Su función es que  al aplicar la temperatura correcta (31°C a 35 °C) los cristales beta del producto comienzan a transformar los demás cristales de su misma forma.  Es un método muy práctico y usado sobre todo en chocolatería industrial.     
               .col-md-6 
                 img.img-a.img-t(src='@/assets/curso/temas/23.png', alt='')
             .row.justify-content-center.align-items-start
               .col-md-6.mb-4.mb-md-0
-                .pt-5.ps-5
+                .pt-5.ps-5.smov
                   h4.mb-4 Sembrado 
                   p Como su nombre lo indica consiste en sembrar cristales beta por medio de chocolate ya atemperado, para esto se funde el chocolate sin atemperar  cuidando de no sobrepasar los 50  °C, y lentamente se va agregando trozos de chocolate ya atemperado mientras se remueve lenta y homogéneamente.  Su objetivo es que con el chocolate que se agrega se baje la temperatura y se estimule la producción de cristales beta.     
               .col-md-6 
@@ -220,10 +220,10 @@
 
       p(data-aos="fade-down").mb-5 Como ya se ha mencionado, es importante tener en cuenta la temperatura ambiente del lugar donde se realicen los procesos de chocolatería y más el de atemperado; la temperatura ambiente ideal para trabajar es a 20°C  y no debe superar los 25°C. En zonas geográficas con altas temperaturas es necesario recurrir a la ventilación artificial como el aire acondicionado o buscar trabajar en las horas más frescas como las noches y madrugadas; en zonas donde la temperatura ambiental es muy baja se debe considerar el aislamiento y trabajar de una forma más rápida para evitar la cristalización del chocolate antes de lograr la correcta multiplicación de cristales beta. 
 
-      .row.justify-content-center.align-items-center.mb-5 
-        .col-lg-5
+      .row.justify-content-center.align-items-center.mb-4 
+        .col-lg-5.my-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/27.png', alt='')                  
-        .col-lg-7 
+        .col-lg-7.my-3 
           p(data-aos="fade-down").mb-4 Cabe recalcar que se debe cumplir con las  condiciones de higiene previstas para la manipulación de alimentos según el decreto 3075 de 1997, el lugar debe estar correctamente aseado y desinfectado; sin embargo, no debe haber presencia de humedad o contacto directo del chocolate con el agua,  ya que eso genera endurecimientos en la cobertura y queda expuesto al ataque de agentes patógenos como hongos.  
           a.anexo.mb-4.mb-lg-0(:href="obtenerLink('/downloads/DECRETO_3075_DE_1997.pdf')" target="_blank")
             .anexo__icono
@@ -253,61 +253,61 @@
           h5(data-aos="fade-down").text-white.mb-5 Para el proceso de atemperado se requieren los siguientes utensilios:      
         .col-lg-10(data-aos="fade-left")     
           SlyderF.mb-5(columnas="col-lg-6 col-xl-4 col-md-4")
-            .tarjeta.color-acento-botones.p-4.h-100
+            .tarjeta.color-acento-contenido.p-4.h-100
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/temas/30.svg' alt='AvatarTop')
 
               p.mb-0.text-center Espátulas de goma
-            .tarjeta.color-acento-botones.p-4.h-100
+            .tarjeta.color-acento-contenido.p-4.h-100
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/temas/31.svg' alt='AvatarTop')
 
               p.mb-0.text-center Grameras
-            .tarjeta.color-acento-botones.p-4.h-100
+            .tarjeta.color-acento-contenido.p-4.h-100
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/temas/32.svg' alt='AvatarTop')
 
               p.mb-0.text-center Recipientes de acero inoxidable
-            .tarjeta.color-acento-botones.p-4.h-100
+            .tarjeta.color-acento-contenido.p-4.h-100
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/temas/33.svg' alt='AvatarTop')
 
               p.mb-0.text-center Rallador
-            .tarjeta.color-acento-botones.p-4.h-100
+            .tarjeta.color-acento-contenido.p-4.h-100
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/temas/34.svg' alt='AvatarTop')
 
               p.mb-0.text-center Espátulas de acero
-            .tarjeta.color-acento-botones.p-4.h-100
+            .tarjeta.color-acento-contenido.p-4.h-100
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/temas/35.svg' alt='AvatarTop')
 
               p.mb-0.text-center Termómetro para alimentos
-            .tarjeta.color-acento-botones.p-4.h-100
+            .tarjeta.color-acento-contenido.p-4.h-100
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/temas/36.svg' alt='AvatarTop')
 
               p.mb-0.text-center Cacerolas
-            .tarjeta.color-acento-botones.p-4.h-100
+            .tarjeta.color-acento-contenido.p-4.h-100
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/temas/37.svg' alt='AvatarTop')
 
               p.mb-0.text-center Microondas
-            .tarjeta.color-acento-botones.p-4.h-100
+            .tarjeta.color-acento-contenido.p-4.h-100
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/temas/38.svg' alt='AvatarTop')
 
               p.mb-0.text-center Recipientes de plástico grado alimenticio
-            .tarjeta.color-acento-botones.p-4.h-100
+            .tarjeta.color-acento-contenido.p-4.h-100
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/temas/39.svg' alt='AvatarTop')
@@ -409,7 +409,7 @@
           .list__txt
             h3.mb-0.mt-1.bwn Condiciones de Limpieza de los moldes
 
-    .row.justify-content-center.align-items-center.my-5            
+    .row.justify-content-center.align-items-center.my-5.pb-5            
       .col-lg-7
         p(data-aos="fade-down") Sea cual sea el material de los moldes todos deben compartir las mismas condiciones de limpieza, para ello es importante contar con:
         ul.lista-ul--color.ps-4
@@ -431,7 +431,7 @@
       .col-lg-5
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/50.png', alt='')
 
-    .row.justify-content-start.align-items-center    
+    .row.justify-content-start.align-items-center.mb-3    
       .col-auto
         .list(data-aos="fade-down")
           .list__item
@@ -443,7 +443,7 @@
     p(data-aos="fade-down").mb-5 El proceso de limpieza y secado es muy sencillo, sin embargo es de vital importancia para garantizar los efectos deseados en los chocolates elaborados.  Es muy importante tener cuidado de no generar rayones en la superficie del molde y no permitir que queden rastros de jabón ni de humedad. El proceso es el siguiente: 
     .row.justify-content-center.align-items-center           
       .col-lg-5
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/50.png', alt='')
+        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/52.png', alt='')
 
       .col-lg-7 
         .tarjeta.tarjeta--gris.p-4(data-aos="zoom-in")

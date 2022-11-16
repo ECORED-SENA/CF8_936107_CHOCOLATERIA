@@ -81,7 +81,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   p.mb-0 Para ampliar la información sobre los requisitos de composición que debe tener cada tipo de chocolate descargar el documento: 
-                .col-sm-auto
+                .col-sm-auto.my-3
                   a.anexo(:href="obtenerLink('/downloads/Tipos_chocolate_ sus_requisitos_composición.pdf')" target="_blank")
                     .anexo__icono
                       img(src="@/assets/template/icono-pdf.svg")
@@ -117,11 +117,11 @@
       .col-lg-5
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/64.png', alt='')
 
-    .row.justify-content-center.align-items-center.mb-5           
-      .col-lg-4 
+    .row.justify-content-center.align-items-center.mb-4           
+      .col-lg-4.my-3 
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/66.png', alt='')
 
-      .col-lg-8
+      .col-lg-8.my-3
         p(data-aos="fade-down") A nivel de fundamentos teóricos, existen dos grandes grupos para clasificar los rellenos: los de base agua y rellenos de grasa; los primeros, como su nombre lo indica, tienen dentro de su composición algún porcentaje de agua,  por ejemplo: ganache, licor, fondant, mermeladas o dulces de fruta.   Los de grasa se llaman así porque no contienen agua en ningún porcentaje; tener presente, que no quiere decir que por su nombre a estos rellenos se les agregue grasa, ya que por normatividad sólo está permitida la grasa vegetal y la proveniente de la leche. Los otros tipos de grasa están excluidos de las formulaciones. Estos en este casos, los rellenos obtienen la grasa, del praliné, pastas de frutos secos y giandujas (avellanas trituradas), entre otros.
 
     .row.justify-content-start.align-items-center.mb-5           
@@ -191,7 +191,7 @@
 
       h4.bgtbw(data-aos="fade-down").mb-4 Ganache
 
-      .row.justify-content-center.align-items-center.mb-5           
+      .row.justify-content-center.align-items-center   
         .col-auto
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/4.svg', alt='')
         .col  
@@ -201,14 +201,14 @@
       .row.justify-content-center.align-items-start.py-5           
         .col-lg-6.my-3 
           p(data-aos="fade-down") Los parámetros importantes del Ganache son Ph: menor a 5 y  disminución de la actividad del agua (aW), menor a 0.85.  Teniendo en cuenta lo anterior una formulación básica  para hacer ganache, sería:
-          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/11.png', alt='')
+          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/76.png', alt='')
 
         .col-lg-6.my-3 
           .titulo-sexto.color-acento-contenido(data-aos="zoom-in-left")
             h5 Tabla 3 
             span Formulación para la elaboración del Ganache
           .tabla-a.color-primario.mb-5(data-aos="fade-left") 
-            table.table1
+            table.table1 
               caption.bgcap Nota. Adaptada de Oviedo,D. Quetzal ,Taller de Chocolatería, 2012.
               thead
                 tr.bgth
@@ -241,11 +241,11 @@
 
     p(data-aos="fade-down").mb-5 Realizar mal el proceso de atemperado o no realizarlo y simplemente fundirlo puede generar la presencia de defectos como el Fatbloom, término técnico en inglés que es el  afloramiento de manchas blanquecinas sobre los chocolates, estas manchas son partículas de grasa que salen a la superficie cuando el chocolate ha sido expuesto a cambios extremos de temperatura ambiente.
 
-    .row.justify-content-center.align-items-center.mb-5           
-      .col-lg-4
+    .row.justify-content-center.align-items-center.mb-4           
+      .col-lg-4.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/77.png', alt='')
 
-      .col-lg-8
+      .col-lg-8.my-3
         p(data-aos="fade-down") Los errores cometidos en todo el proceso de elaboración del chocolate pueden aflorar ya en el producto final, que serían en este caso los bombones, a continuación se presenta un listado de defectos:
         ul.lista-ul--color.ps-4
           li 
