@@ -196,7 +196,7 @@
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/4.svg', alt='')
         .col  
           p(data-aos="fade-down").mb-0 Dentro de los tipos de relleno para bombones el más común es el ganache, por su versatilidad a la hora de crear sabores y por su textura cremosa que lo hace muy palatable. El ganache es una emulsión de grasa y agua con la cual se busca dar una textura más cremosa y fina al chocolate pero esto no quiere decir que no se tenga en cuenta otros ingredientes como el azúcar  y adiciones especiales.        
-
+      
     .bg13
       .row.justify-content-center.align-items-start.py-5           
         .col-lg-6.my-3 
