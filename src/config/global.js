@@ -274,7 +274,13 @@ export default {
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: 'Wilson Andrés Arenales Cáceres',
+        nombre: 'María Carolina Tamayo López',
+        cargo: 'Locución',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Oleg Litvin',
         cargo: 'Validación Ilustración',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
