@@ -18,7 +18,7 @@
           p(data-aos="fade-down").mb-0.p-4 El 
             span.or #[b Codex Alimentarius]
             span , o “Código Alimentario”, es un conjunto de normas, directrices y códigos de prácticas aprobados por la Comisión del Codex Alimentarius, conocida también como 
-            span.or #[b CAC],
+            span.or #[b CAC], 
             span constituye el elemento central del Programa Conjunto 
             span.or #[b FAO/OMS ]
             span sobre Normas Alimentarias y fue establecida por la 
@@ -82,11 +82,11 @@
                 .col.mb-3.mb-sm-0
                   p.mb-0 Para ampliar la información sobre los requisitos de composición que debe tener cada tipo de chocolate descargar el documento: 
                 .col-sm-auto.my-3
-                  a.anexo(:href="obtenerLink('/downloads/Tipos_chocolate_ sus_requisitos_composición.pdf')" target="_blank")
+                  a.anexo(:href="obtenerLink('/downloads/Tipos_chocolate_ sus_requisitos_composicion.pdf')" target="_blank")
                     .anexo__icono
                       img(src="@/assets/template/icono-pdf.svg")
                     .anexo__texto
-                      p.ts #[b.ts Anexo.]Tipos_chocolate_ sus_requisitos_composición 
+                      p.ts #[b.ts Anexo.]Tipos de chocolate y sus requisitos de composición
 
     .row.justify-content-start.align-items-center.mb-5           
       .col-auto
@@ -110,7 +110,7 @@
               p También llamada azúcar común o de mesa, proviene comúnmente de la caña de azúcar, otra fuente es de la remolacha azucarera, su efecto conservador y reblandecedor de los rellenos y resalta los aromas. Disminuye la actividad del agua (aW) y posee poder anticongelante.     
           .row.up(titulo="Según la temperatura")
             .col-11
-              p Al diseñar bombones se debe tener en cuenta, que estos se elaboran a diferentes temperaturas ambiente, especialmente por el tipo de relleno que se vaya a utilizar, pues de ahí parten el método de conservación a utilizar,  como la pasteurización, cuyo objetivo es eliminar microorganismos ya que se debe llevar el relleno a 83 ºC y luego enfriarlo rápidamente hasta los 6 ºC.
+              p Aquellos rellenos que contengan mayor cantidad de azúcar y menor cantidad de agua serán los de mejor conservación, por el contrario aquellos con mayor humedad se verán afectados más rapìdamente por la acción de agentes externos modificando sus características. Como por ejemplo el ataque de hongos generando moho en el producto.
         .row.justify-content-center.align-items-center          
           .col-lg-12.imgs-flotantes1(data-aos="fade-left") 
             img.img-flotante1(data-aos="zoom-in")(src='@/assets/curso/temas/65.png', alt='Imagen decorativa')              
@@ -150,7 +150,7 @@
 
     .bg12
       h4.bgtbw(data-aos="fade-down").mb-4.pt-5 Los azúcares    
-      p(data-aos="fade-down").mb-5 proporcionan el sabor dulce dependiendo del ph que tengan, su temperatura y disolución e intervienen sobre la aW (actividad agua) los más usados son:  sacarosa, azúcar invertido, glucosa, dextrosa, miel, fructosa, lactosa y sorbitol. A continuación, se puede conocer en qué consiste cada uno de ellos: 
+      p(data-aos="fade-down").mb-5 Proporcionan el sabor dulce dependiendo del ph que tengan, su temperatura y disolución e intervienen sobre la aW (actividad agua) los más usados son:  sacarosa, azúcar invertido, glucosa, dextrosa, miel, fructosa, lactosa y sorbitol. A continuación, se puede conocer en qué consiste cada uno de ellos: 
       .row.justify-content-center.align-items-center.mb-5           
         .col-lg-12.up
           .tarjeta.tarjeta--azul.p-4.mb-5(data-aos="fade-left")
@@ -209,7 +209,7 @@
             span Formulación para la elaboración del Ganache
           .tabla-a.color-primario.mb-5(data-aos="fade-left") 
             table.table1 
-              caption.bgcap Nota. Adaptada de Oviedo,D. Quetzal ,Taller de Chocolatería, 2012.
+              caption.bgcap Nota. Adaptada de Oviedo, D. Quetzal, Taller de Chocolatería, 2012.
               thead
                 tr.bgth
                   th Ingredientes

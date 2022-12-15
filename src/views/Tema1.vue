@@ -9,7 +9,7 @@
     .bg1 
       .row.justify-content-center.align-items-start.pt-5          
         .col-lg-7.my-3
-          p(data-aos="fade-down") Agronómicamente existen diferentes variedades de cacao que le confieren a la almendra o semilla  cualidades organolépticas distintas, es decir, diferentes aromas, colores, sabores entre otras.  Se debe recordar que las cualidades organolépticas son aquellas que se pueden identificar con los órganos sensoriales (sabor, color, olor, textura, etc.). De esta forma el licor o base de cacao para la elaboración de productos parte ya con unas características importantes. 
+          p(data-aos="fade-down") Agronómicamente existen diferentes variedades de cacao que le confieren a la almendra o semilla  cualidades organolépticas distintas, es decir, diferentes aromas, colores, sabores, entre otras.  Se debe recordar que las cualidades organolépticas son aquellas que se pueden identificar con los órganos sensoriales (sabor, color, olor, textura, etc.). De esta forma el licor o base de cacao para la elaboración de productos parte ya con unas características importantes. 
           p(data-aos="fade-down").mb-0 Al procesar estas semillas o almendras (cosecha, quiebra, fermentación, secado, tostión, descascarillado y molienda) se obtienen los 
             span.or #[i nibs]
             span , que al pasarlos por un proceso de molienda, por medio de presión y calor producen una reacción tipo emulsión por la manteca de cacao, haciendo que los 
@@ -78,7 +78,7 @@
             span Triglicéridos de la manteca de cacao
           .tabla-a.color-primario.mb-5(data-aos="fade-left") 
             table.table1
-              caption.bgcap Nota. Adaptada de Oviedo,D. Quetzal ,Taller de Chocolatería, 2012.
+              caption.bgcap Nota. Adaptada de Oviedo, D. Quetzal, Taller de Chocolatería, 2012.
               thead
                 tr.bgth
                   th Fórmula
@@ -129,7 +129,7 @@
 
       Separador 
       #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-        h2.mb-0 1.2  Métodos de Elaboración: curva de atemperado y cristalización  
+        h2.mb-0 1.2  Métodos de Elaboración: Curva de atemperado y cristalización  
 
       .row.justify-content-center.align-items-center
         .col-lg-7.my-3 
