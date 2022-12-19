@@ -107,10 +107,10 @@
               p Se refiere a la estructura física del relleno aportada por  diferentes ingredientes que pueden ser: cremosas, crujientes, líquidas , tipo gel, untuosas, ligeras o pastosas. 
           .row.up(titulo="Según el tipo de conservación")
             .col-11
-              p También llamada azúcar común o de mesa, proviene comúnmente de la caña de azúcar, otra fuente es de la remolacha azucarera, su efecto conservador y reblandecedor de los rellenos y resalta los aromas. Disminuye la actividad del agua (aW) y posee poder anticongelante.     
+              p Aquellos rellenos que contengan mayor cantidad de azúcar y menor cantidad de agua serán los de mejor conservación, por el contrario, aquellos con mayor humedad se verán afectados más rápidamente por la acción de agentes externos modificando sus características. Como por ejemplo el ataque de hongos generando moho en el producto.
           .row.up(titulo="Según la temperatura")
             .col-11
-              p Aquellos rellenos que contengan mayor cantidad de azúcar y menor cantidad de agua serán los de mejor conservación, por el contrario aquellos con mayor humedad se verán afectados más rapìdamente por la acción de agentes externos modificando sus características. Como por ejemplo el ataque de hongos generando moho en el producto.
+              p Al diseñar bombones se debe tener en cuenta, que estos se elaboran a diferentes temperaturas ambiente, especialmente por el tipo de relleno que se vaya a utilizar, pues de ahí parten el método de conservación a utilizar, como la pasteurización, cuyo objetivo es eliminar microorganismos ya que se debe llevar el relleno a 83 ºC y luego enfriarlo rápidamente hasta los 6 ºC.
         .row.justify-content-center.align-items-center          
           .col-lg-12.imgs-flotantes1(data-aos="fade-left") 
             img.img-flotante1(data-aos="zoom-in")(src='@/assets/curso/temas/65.png', alt='Imagen decorativa')              
